@@ -1,5 +1,3 @@
-// prime number;
-
 let num1=true;
 if(num>1){
    for(i=2;i<num;i++){
