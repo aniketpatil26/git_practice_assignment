@@ -7,5 +7,8 @@ if(num>1){
           num1=false;
           break;
        }
-   }
+   }if(num1){
+     console.log("Yes");
+}else{
+     console.log("No");
 }
